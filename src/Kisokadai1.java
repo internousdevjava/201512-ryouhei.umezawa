@@ -10,7 +10,7 @@ import java.io.InputStreamReader;
  * @author internous
  *
  */
-public class Kisokadai5 {
+public class Kisokadai1 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
